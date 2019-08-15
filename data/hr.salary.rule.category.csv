@@ -1,0 +1,25 @@
+id,code,company_id/id,name
+hr_payroll.BASIC,BASE,base.main_company,Base
+hr_payroll.ALW,REM,base.main_company,Remuneraciones
+hr_payroll.GROSS,BRUTO,base.main_company,Bruto
+hr_payroll.DED,DED,base.main_company,Deduction
+hr_payroll.NET,NET,base.main_company,Salario Neto
+hr_payroll.COMP,COMP,base.main_company,Contribuciones Fiscales
+hr_payroll_calculated_amount,CALC,base.main_company,Cálculos
+hr_payroll_trading_salary,COT,base.main_company,Salarios Cotizables
+hr_payroll_commisions_alw,COMM,base.main_company,Comisiones
+hr_payroll_taxable_alw,OREM,base.main_company,Otras Remuneraciones
+hr_payroll_exempt_alw,INEX,base.main_company,Ingresos Exentos
+hr_payroll_complementary_alw,RETC,base.main_company,Retribuciones Complementarias
+hr_payroll_adjustments,CREDAJUS,base.main_company,Credito por Ajustes
+hr_payroll_income_deduction,ISRE,base.main_company,Retenciones - ISR
+hr_payroll_ss_deduction,TSSE,base.main_company,Retenciones - TSS
+hr_payroll_infotep_deduction,INFE,base.main_company,Retenciones - INFOTEP
+hr_payroll_insurance_deduction,COSS,base.main_company,Costos de Seguro
+hr_payroll_loan_deduction,PRE,base.main_company,Préstamos
+hr_payroll_other_deduction,ODED,base.main_company,Otras Deducciones
+hr_payroll_income_contribution,ISRC,base.main_company,Contribuciones - ISR
+hr_payroll_ss_contribution,TSSC,base.main_company,Contribuciones - TSS
+hr_payroll_infotep_contribution,INFC,base.main_company,Contribuciones - INFOTEP
+hr_payroll_withholdings,RET,base.main_company,Retenciones
+hr_payroll_salary_deduction,DDS,base.main_company,Deducciones del Salario
