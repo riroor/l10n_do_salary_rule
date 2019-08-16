@@ -3,4 +3,4 @@ hr_payroll.structure_base,Base for new structures,BASE
 hr_payroll_structure_base,Nómina de Empleados Internos,FIXED
 hr_payroll_structure_extras,Novedades Extraordinarias,EXTRA
 hr_payroll_structure_exit,Salida de Empleados,EXIT
-payroll_structure_venezolana,EMPLEADOS FIJOS EXTRANJEROS,NACIONALIDAD VENEZOLANA
+payroll_structure_venezolana,Empleados Fijos Extranjeros,EXTRAN
